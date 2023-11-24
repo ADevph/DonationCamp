@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/ZSzSbyw/Health.png",
+        "title": "Clean Water for Children",
+        "category": "Health",
+        "category_bg_color": "rgba(0, 82, 255, 0.20)",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": " #0052FF",
+        "description": "Provide clean, life-saving water to children in need. Your support ensures a brighter future for them. Join us in making a difference today.",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/8XxJBY1/Education.png",
+        "title": "Advanced Crash resources ",
+        "category": "Education",
+        "category_bg_color": "rgba(255, 68, 74, 0.20)",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "Explore advanced crash courses and valuable learning resources to deepen your knowledge and skills in various fields. Elevate your expertise with our curated materials.",
+        "price": 29.99
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/878LJXZ/Clothing.png",
+        "title": "Clothing useful product",
+        "category": "Clothing",
+        "category_bg_color": "rgba(121, 194, 63, 0.20)",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "Contribute to a clothing drive with essential and useful clothing items for those in need. Your donation can make a meaningful impact on someone's life.",
+        "price": 19.99
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/pLc7CxP/Food.png",
+        "title": "Better food for everyone",
+        "category": "Food",
+        "category_bg_color": "rgba(248, 113, 71, 0.20)",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "Working toward a world with better food for everyone, ensuring nourishment, health, and happiness through sustainable and accessible culinary solutions.",
+        "price": 14.99
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/ZSzSbyw/Health.png",
+        "title": "Better Health for everyone",
+        "category": "Health",
+        "category_bg_color": "rgba(0, 82, 255, 0.20)",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Your generous donations support critical healthcare initiatives, medical research, and access to essential treatments. Join us in making a healthier world for all.",
+        "price": 24.99
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/8XxJBY1/Education.png",
+        "title": "Learn Easily Any Language",
+        "category": "Education",
+        "category_bg_color": "rgba(255, 68, 74, 0.20)",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "Unlock Language Learning Made Easy",
+        "price": 19.99
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/878LJXZ/Clothing.png",
+        "title": "Children Dress",
+        "category": "Clothing",
+        "category_bg_color": "rgba(121, 194, 63, 0.20)",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "Elevate your family's fashion with our stylish children's dresses. Discover quality and elegance in every outfit. Dress your loved ones with care.",
+        "price": 39.99
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/pLc7CxP/Food.png",
+        "title": "Healthy Food for everyone",
+        "category": "Food",
+        "category_bg_color": "rgba(248, 113, 71, 0.20)",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "Ensuring Access to Healthy Food for All, Savor the goodness of organic fruits. ",
+        "price": 29.99
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/ZSzSbyw/Health.png",
+        "title": "Good Health for everyone",
+        "category": "Health",
+        "category_bg_color": "rgba(0, 82, 255, 0.20)",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Promoting Good Health, Ensuring Well-being for All, Build strength",
+        "price": 34.99
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/8XxJBY1/Education.png",
+        "title": "Education for everyone",
+        "category": "Education",
+        "category_bg_color": "rgba(255, 68, 74, 0.20)",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "Access to Free Education: Empowering Everyone's Potential",
+        "price": 9.99
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/878LJXZ/Clothing.png",
+        "title": " Denim Jeans and t-shirt ",
+        "category": "Clothing",
+        "category_bg_color": "rgba(121, 194, 63, 0.20)",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "Upgrade your casual wardrobe with these stylish denim jeans and shirt",
+        "price": 29.99
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/pLc7CxP/Food.png",
+        "title": "Good food for everyone",
+        "category": "Food",
+        "category_bg_color": "rgba(248, 113, 71, 0.20)",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "Ensuring Good Food for All: Nourishing Lives Worldwide" ,
+        "price": 12.99
+    }
+]
